@@ -13,6 +13,8 @@ git_go(){
 
   git push origin $branch
   read
+
+  exit
 }
 
 git_go
