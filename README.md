@@ -1,4 +1,4 @@
-Bash commands
+Bash commands :sushi:
 
 # wc directory_list
 - Outputs the word count of directory_list
